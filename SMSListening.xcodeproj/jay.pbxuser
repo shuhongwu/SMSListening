@@ -1,0 +1,398 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* carrierInfoAppDelegate.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = carrierInfoAppDelegate.h;
+		path = "/Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.h";
+		sourceTree = "<absolute>";
+	};
+	1D3623250D0F684500981E51 /* carrierInfoAppDelegate.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = carrierInfoAppDelegate.m;
+		path = "/Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.m";
+		sourceTree = "<absolute>";
+	};
+	1D6058900D05DD3D006BFB54 /* SMSListening */ = {
+		activeExec = 0;
+		executables = (
+			690758BD1480D2460009EEF4 /* SMSListening */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* SMSListening_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 445}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 328}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 690758BD1480D2460009EEF4 /* SMSListening */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SMSListening */;
+		addToTargets = (
+		);
+		breakpoints = (
+			69D4B14E14872E7F003A60B4 /* main.m:25 */,
+		);
+		codeSenseManager = 690758CB1480D2650009EEF4 /* Code sense */;
+		executables = (
+			690758BD1480D2460009EEF4 /* SMSListening */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					767,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					809,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					727,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 345370832;
+			PBXWorkspaceStateSaveDate = 345370832;
+		};
+		perUserProjectItems = {
+			690758F91480D2EE0009EEF4 /* PBXTextBookmark */ = 690758F91480D2EE0009EEF4 /* PBXTextBookmark */;
+			690F9B6414816A5A008A986D /* PBXBookmark */ = 690F9B6414816A5A008A986D /* PBXBookmark */;
+			691E303C1483C6C600E2E151 /* PlistBookmark */ = 691E303C1483C6C600E2E151 /* PlistBookmark */;
+			691E303E1483C6C600E2E151 /* PBXTextBookmark */ = 691E303E1483C6C600E2E151 /* PBXTextBookmark */;
+			69339CDF148364B300A03A5A /* PBXTextBookmark */ = 69339CDF148364B300A03A5A /* PBXTextBookmark */;
+			69547E0614847F30007118EF /* PBXTextBookmark */ = 69547E0614847F30007118EF /* PBXTextBookmark */;
+			69547E0714847F30007118EF /* PBXTextBookmark */ = 69547E0714847F30007118EF /* PBXTextBookmark */;
+			695ADD9614867A0E003FBC95 /* PBXTextBookmark */ = 695ADD9614867A0E003FBC95 /* PBXTextBookmark */;
+			695ADD9714867A0E003FBC95 /* PBXTextBookmark */ = 695ADD9714867A0E003FBC95 /* PBXTextBookmark */;
+			69CDB3DD1495F37700A3E2DF /* PBXTextBookmark */ = 69CDB3DD1495F37700A3E2DF /* PBXTextBookmark */;
+			69D4B1791487521A003A60B4 /* PBXTextBookmark */ = 69D4B1791487521A003A60B4 /* PBXTextBookmark */;
+			69D4B17A1487521A003A60B4 /* PBXTextBookmark */ = 69D4B17A1487521A003A60B4 /* PBXTextBookmark */;
+			69D4B1E9148764E6003A60B4 /* PBXTextBookmark */ = 69D4B1E9148764E6003A60B4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 690758CA1480D2650009EEF4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1013, 1222}}";
+			sepNavSelRange = "{2106, 0}";
+			sepNavVisRange = "{0, 1134}";
+			sepNavWindowFrame = "{{27, 103}, {1226, 666}}";
+		};
+	};
+	690758BD1480D2460009EEF4 /* SMSListening */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SMSListening;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	690758CA1480D2650009EEF4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	690758CB1480D2650009EEF4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	690758F91480D2EE0009EEF4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690758FA1480D2EE0009EEF4 /* main.m */;
+		name = "main.m: 1";
+		rLen = 2780;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1038;
+		vrLoc = 0;
+	};
+	690758FA1480D2EE0009EEF4 /* main.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = main.m;
+		path = /Users/jay/Desktop/SMS/carrierInfo/main.m;
+		sourceTree = "<absolute>";
+	};
+	690F9B6414816A5A008A986D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A56135CF1209616C00D3849D /* icon.png */;
+	};
+	690F9C191481FEF3008A986D /* substrate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 806}}";
+			sepNavSelRange = "{174, 0}";
+			sepNavVisRange = "{312, 971}";
+		};
+	};
+	690F9C2C14820849008A986D /* substrate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = substrate.h;
+		path = /Users/jay/Desktop/SMS/ExampleHook/substrate.h;
+		sourceTree = "<absolute>";
+	};
+	691E303C1483C6C600E2E151 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SMSListening-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDevelopmentRegion,
+		);
+		name = "/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	691E303E1483C6C600E2E151 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5613557120954DC00D3849D /* mainViewController.m */;
+		name = "mainViewController.m: 12";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 0;
+	};
+	69339CDF148364B300A03A5A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690F9C2C14820849008A986D /* substrate.h */;
+		name = "substrate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 809;
+		vrLoc = 0;
+	};
+	69547E0614847F30007118EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* carrierInfoAppDelegate.h */;
+		name = "carrierInfoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 0;
+	};
+	69547E0714847F30007118EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* carrierInfoAppDelegate.m */;
+		name = "carrierInfoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 935;
+		vrLoc = 0;
+	};
+	695ADD9614867A0E003FBC95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 690F9C191481FEF3008A986D /* substrate.h */;
+		name = "substrate.h: 14";
+		rLen = 0;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 312;
+	};
+	695ADD9714867A0E003FBC95 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* SMSListening_Prefix.pch */;
+		name = "SMSListening_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 328;
+		vrLoc = 0;
+	};
+	69CDB3DD1495F37700A3E2DF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 70";
+		rLen = 0;
+		rLoc = 2106;
+		rType = 0;
+		vrLen = 1134;
+		vrLoc = 0;
+	};
+	69D4B13414872CC3003A60B4 /* SMSListening.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 526}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{0, 143}";
+		};
+	};
+	69D4B14E14872E7F003A60B4 /* main.m:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 25;
+		modificationTime = 344403583.158519;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	69D4B1791487521A003A60B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 69D4B13414872CC3003A60B4 /* SMSListening.h */;
+		name = "SMSListening.h: 10";
+		rLen = 0;
+		rLoc = 143;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	69D4B17A1487521A003A60B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 69D4B17B1487521A003A60B4 /* CFRunLoop.h */;
+		name = "CFRunLoop.h: 62";
+		rLen = 35;
+		rLoc = 1791;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 0;
+	};
+	69D4B17B1487521A003A60B4 /* CFRunLoop.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CFRunLoop.h;
+		path = /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFRunLoop.h;
+		sourceTree = "<absolute>";
+	};
+	69D4B1E9148764E6003A60B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 70";
+		rLen = 0;
+		rLoc = 2106;
+		rType = 0;
+		vrLen = 1437;
+		vrLoc = 439;
+	};
+	A5613557120954DC00D3849D /* mainViewController.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = mainViewController.m;
+		path = "/Users/jay/Desktop/SMS监听/Classes/mainViewController.m";
+		sourceTree = "<absolute>";
+	};
+}

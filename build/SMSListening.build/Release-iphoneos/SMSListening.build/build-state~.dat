@@ -1,0 +1,464 @@
+TSMSListening
+v7
+r3
+t344403256.732456
+cCheck dependencies
+cCpResource build/Release-iphoneos/SMSListening.app/ResourceRules.plist /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/Info.plist SMSListening-Info.plist
+cCopyPNGFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/icon.png icon.png
+cCompileXIB /Users/jay/Desktop/SMS监听/view.xib
+cProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch.gch SMSListening_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/SMSListening_Prefix.pch.gch SMSListening_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004CC110670000000000100240
+t1287721063
+s1049152
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTCarrier.h
+c000000004CC1105600000000000006D2
+t1287721046
+s1746
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTTelephonyNetworkInfo.h
+c000000004CC110560000000000000541
+t1287721046
+s1345
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/dlfcn.h
+c000000004CC104810000000000000B1C
+t1287718017
+s2844
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/notify.h
+c000000004CB3E44D0000000000002CA4
+t1286857805
+s11428
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c000000004C5A568700000000000010DD
+t1280988807
+s4317
+
+N/Users/jay/Desktop/SMS监听/CKSMSService.h
+c000000004ED139350000000000000B0E
+t1322334517
+s2830
+i"CKService.h"
+
+N/Users/jay/Desktop/SMS监听/CKService.h
+c000000004ED131D20000000000000877
+t1322332626
+s2167
+
+N/Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.h
+c000000004CC60FE400000000000001D1
+t1288048612
+s465
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.m
+c000000004CC60FE40000000000000B86
+t1288048612
+s2950
+i"carrierInfoAppDelegate.h"
+i"mainViewController.h"
+
+N/Users/jay/Desktop/SMS监听/Classes/mainViewController.h
+c000000004CC60FE400000000000000F3
+t1288048612
+s243
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS监听/Classes/mainViewController.m
+c000000004ED357330000000000000C14
+t1322473267
+s3092
+i<CoreTelephony/CTCarrier.h>
+i<CoreTelephony/CTTelephonyNetworkInfo.h>
+i"mainViewController.h"
+
+N/Users/jay/Desktop/SMS监听/SMSListening_Prefix.pch
+c000000004CC60FE40000000000000148
+t1288048612
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app.dSYM
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/Info.plist
+t1322710449
+s763
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/PkgInfo
+t1322710449
+s8
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/ResourceRules.plist
+t1322710449
+s485
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/icon.png
+t1322710449
+s4632
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/view.nib
+t1322710452
+s1146
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening.LinkFileList
+c000000004ED6F5B10000000000000076
+t1322710449
+s118
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/carrierInfoAppDelegate.o
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/mainViewController.o
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening.LinkFileList
+c000000004ED6F5B10000000000000076
+t1322710449
+s118
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/carrierInfoAppDelegate.o
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/mainViewController.o
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening.xcent
+t2
+s0
+
+N/Users/jay/Desktop/SMS监听/icon.png
+c000000004CC60FE40000000000001332
+t1288048612
+s4914
+
+N/Users/jay/Desktop/SMS监听/main.m
+c000000004ED6EAF50000000000000B10
+t1322707701
+s2832
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"CKSMSService.h"
+i<notify.h>
+i<stdio.h>
+i<stdarg.h>
+i<dlfcn.h>
+
+N/Users/jay/Desktop/SMS监听/view.xib
+c000000004ED4406A00000000000035B2
+t1322532970
+s13746
+
+N/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision
+c000000004ED0A7A10000000000002702
+t1322297249
+s9986
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/SMSListening_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch.gch
+t2
+s0
+
+NSMSListening-Info.plist
+c000000004ED34A77000000000000033B
+t1322470007
+s827
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344403248#344403249#0(0"0(0#1#0"8628417312#0"0#
+
+CCodeSign /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app
+s344400267.705269
+e344400268.086257
+r1
+xCodeSign
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app
+lSLF07#2@48"CodeSign build/Release-iphoneos/SMSListening.app344400267#344400268#0(0"0(0#0#68"/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app8604460032#660"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: xdjiang xdjiang (HPZXESULG6)" --resource-rules=/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/ResourceRules.plist --entitlements /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening.xcent /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app0#
+
+CCompileC build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/carrierInfoAppDelegate.o /Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/main.o /Users/jay/Desktop/SMS监听/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344400267.410819
+e344400267.596020
+r1
+xCompileC
+xbuild/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/main.o
+x/Users/jay/Desktop/SMS监听/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jay/Desktop/SMS监听/main.m: In function 'callback_ctmessage':
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: (Messages without a matching method signature
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: will be assumed to return 'id' and accept
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: '...' as arguments.)
+o/Users/jay/Desktop/SMS监听/main.m:48: warning: no '-incomingMessageWithId:' method found
+o/Users/jay/Desktop/SMS监听/main.m:49: warning: no '-messageType' method found
+o/Users/jay/Desktop/SMS监听/main.m:55: warning: no '-canonicalFormat' method found
+o/Users/jay/Desktop/SMS监听/main.m:63: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS监听/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found
+o/Users/jay/Desktop/SMS监听/main.m: In function 'main':
+o/Users/jay/Desktop/SMS监听/main.m:73: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'
+o/Users/jay/Desktop/SMS监听/main.m:73: warning: initialization makes pointer from integer without a cast
+lSLF07#2@43"Compile /Users/jay/Desktop/SMS监听/main.m344400267#344400267#0(1142"/Users/jay/Desktop/SMS监听/main.m: In function 'callback_ctmessage':/Users/jay/Desktop/SMS监听/main.m:47: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS监听/main.m:47: warning: (Messages without a matching method signature/Users/jay/Desktop/SMS监听/main.m:47: warning: will be assumed to return 'id' and accept/Users/jay/Desktop/SMS监听/main.m:47: warning: '...' as arguments.)/Users/jay/Desktop/SMS监听/main.m:48: warning: no '-incomingMessageWithId:' method found/Users/jay/Desktop/SMS监听/main.m:49: warning: no '-messageType' method found/Users/jay/Desktop/SMS监听/main.m:55: warning: no '-canonicalFormat' method found/Users/jay/Desktop/SMS监听/main.m:63: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS监听/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found/Users/jay/Desktop/SMS监听/main.m: In function 'main':/Users/jay/Desktop/SMS监听/main.m:73: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'/Users/jay/Desktop/SMS监听/main.m:73: warning: initialization makes pointer from integer without a cast9(22@38"No '+sharedMessageCenter' method found344400267#67#84#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#47#0#47#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)344400267#151#91#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#47#0#47#0#0"0(22@41"No '-incomingMessageWithId:' method found344400267#395#87#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#48#0#48#0#19"no '*' method found0(22@30"No '-messageType' method found344400267#482#76#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#49#0#49#0#19"no '*' method found0(22@34"No '-canonicalFormat' method found344400267#558#80#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#55#0#55#0#19"no '*' method found0(22@38"No '+sharedMessageCenter' method found344400267#638#84#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#63#0#63#0#19"no '*' method found0(22@59"No '-sendSMSWithText:serviceCenter:toAddress:' method found344400267#722#105#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#63#0#63#0#19"no '*' method found0(22@62"Implicit declaration of function 'CTTelephonyCenterGetDefault'344400267#880#108#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#73#0#73#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast344400267#988#102#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#73#0#73#0#0"0(0#0#35"/Users/jay/Desktop/SMS监听/main.m8602365088#1780"    cd /Users/jay/Desktop/SMS监听    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-generated-files.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-own-target-headers.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-project-headers.hmap -F/Users/jay/Desktop/SMS监听/build/Release-iphoneos -I/Users/jay/Desktop/SMS监听/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources/armv6 -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch -c /Users/jay/Desktop/SMS监听/main.m -o /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/mainViewController.o /Users/jay/Desktop/SMS监听/Classes/mainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/carrierInfoAppDelegate.o /Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/main.o /Users/jay/Desktop/SMS监听/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344400267.467945
+e344400267.585929
+r1
+xCompileC
+xbuild/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/main.o
+x/Users/jay/Desktop/SMS监听/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jay/Desktop/SMS监听/main.m: In function 'callback_ctmessage':
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: (Messages without a matching method signature
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: will be assumed to return 'id' and accept
+o/Users/jay/Desktop/SMS监听/main.m:47: warning: '...' as arguments.)
+o/Users/jay/Desktop/SMS监听/main.m:48: warning: no '-incomingMessageWithId:' method found
+o/Users/jay/Desktop/SMS监听/main.m:49: warning: no '-messageType' method found
+o/Users/jay/Desktop/SMS监听/main.m:55: warning: no '-canonicalFormat' method found
+o/Users/jay/Desktop/SMS监听/main.m:63: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS监听/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found
+o/Users/jay/Desktop/SMS监听/main.m: In function 'main':
+o/Users/jay/Desktop/SMS监听/main.m:73: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'
+o/Users/jay/Desktop/SMS监听/main.m:73: warning: initialization makes pointer from integer without a cast
+lSLF07#2@43"Compile /Users/jay/Desktop/SMS监听/main.m344400267#344400267#0(1142"/Users/jay/Desktop/SMS监听/main.m: In function 'callback_ctmessage':/Users/jay/Desktop/SMS监听/main.m:47: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS监听/main.m:47: warning: (Messages without a matching method signature/Users/jay/Desktop/SMS监听/main.m:47: warning: will be assumed to return 'id' and accept/Users/jay/Desktop/SMS监听/main.m:47: warning: '...' as arguments.)/Users/jay/Desktop/SMS监听/main.m:48: warning: no '-incomingMessageWithId:' method found/Users/jay/Desktop/SMS监听/main.m:49: warning: no '-messageType' method found/Users/jay/Desktop/SMS监听/main.m:55: warning: no '-canonicalFormat' method found/Users/jay/Desktop/SMS监听/main.m:63: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS监听/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found/Users/jay/Desktop/SMS监听/main.m: In function 'main':/Users/jay/Desktop/SMS监听/main.m:73: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'/Users/jay/Desktop/SMS监听/main.m:73: warning: initialization makes pointer from integer without a cast9(22@38"No '+sharedMessageCenter' method found344400267#67#84#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#47#0#47#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)344400267#151#91#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#47#0#47#0#0"0(22@41"No '-incomingMessageWithId:' method found344400267#395#87#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#48#0#48#0#19"no '*' method found0(22@30"No '-messageType' method found344400267#482#76#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#49#0#49#0#19"no '*' method found0(22@34"No '-canonicalFormat' method found344400267#558#80#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#55#0#55#0#19"no '*' method found0(22@38"No '+sharedMessageCenter' method found344400267#638#84#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#63#0#63#0#19"no '*' method found0(22@59"No '-sendSMSWithText:serviceCenter:toAddress:' method found344400267#722#105#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#63#0#63#0#19"no '*' method found0(22@62"Implicit declaration of function 'CTTelephonyCenterGetDefault'344400267#880#108#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#73#0#73#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast344400267#988#102#0(6@35"/Users/jay/Desktop/SMS监听/main.m344400260#73#0#73#0#0"0(0#0#35"/Users/jay/Desktop/SMS监听/main.m8608355136#1780"    cd /Users/jay/Desktop/SMS监听    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-generated-files.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-own-target-headers.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-project-headers.hmap -F/Users/jay/Desktop/SMS监听/build/Release-iphoneos -I/Users/jay/Desktop/SMS监听/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources/armv7 -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/SMSListening_Prefix.pch -c /Users/jay/Desktop/SMS监听/main.m -o /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/mainViewController.o /Users/jay/Desktop/SMS监听/Classes/mainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/jay/Desktop/SMS监听/view.xib
+s344403249.068289
+e344403252.369154
+r1
+xCompileXIB
+x/Users/jay/Desktop/SMS监听/view.xib
+lSLF07#2@19"CompileXIB view.xib344403249#344403252#0(0"0(0#0#37"/Users/jay/Desktop/SMS监听/view.xib8627881152#531"    cd /Users/jay/Desktop/SMS监听    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/view.nib /Users/jay/Desktop/SMS监听/view.xib --sdk /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/icon.png icon.png
+s344403249.067545
+e344403249.708292
+r1
+xCopyPNGFile
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/icon.png
+xicon.png
+lSLF07#2@69"CopyPNGFile build/Release-iphoneos/SMSListening.app/icon.png icon.png344403249#344403249#0(0"0(0#0#37"/Users/jay/Desktop/SMS监听/icon.png8628022528#557"    cd /Users/jay/Desktop/SMS监听    setenv COPY_COMMAND /Developer/xcode/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jay/Desktop/SMS监听/icon.png /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/icon.png0#
+
+CCpResource build/Release-iphoneos/SMSListening.app/ResourceRules.plist /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s344403249.024619
+e344403249.066850
+r1
+xCpResource
+xbuild/Release-iphoneos/SMSListening.app/ResourceRules.plist
+x/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@100"Copy /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist344403249#344403249#0(0"0(0#0#95"/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8629398816#526"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app0#
+
+CCreateUniversalBinary /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening normal "armv6 armv7"
+s344400267.631291
+e344400267.634603
+r1
+xCreateUniversalBinary
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Release-iphoneos/SMSListening.app/SMSListening normal "armv6 armv7"344400267#344400267#0(0"0(0#0#40"/Users/jay/Desktop/SMS监听/armv6 armv78605072768#536"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening -output /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening0#
+
+CGenerateDSYMFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app.dSYM /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening
+s344400267.634686
+e344400267.702303
+r1
+xGenerateDSYMFile
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app.dSYM
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening
+lSLF07#2@114"GenerateDSYMFile build/Release-iphoneos/SMSListening.app.dSYM build/Release-iphoneos/SMSListening.app/SMSListening344400267#344400267#0(0"0(0#0#81"/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening8604909088#369"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/usr/bin/dsymutil /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/SMSListening -o /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app.dSYM0#
+
+CLd /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening normal armv6
+s344400267.596112
+e344400267.631191
+r1
+xLd
+x/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening
+xnormal
+xarmv6
+old: warning: directory '/Users/jay/Desktop/SMS监听/../MobileSubstrate_need' following -L not found
+lSLF07#2@128"Link /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening344400267#344400267#0(101"ld: warning: directory '/Users/jay/Desktop/SMS监听/../MobileSubstrate_need' following -L not found1(22@87"Directory '/Users/jay/Desktop/SMS监听/../MobileSubstrate_need' following -L not found344400267#0#97#0(6@0"344400267#0#0#0#0#0"0(0#0#0"8605403136#995"    cd /Users/jay/Desktop/SMS监听    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jay/Desktop/SMS监听/build/Release-iphoneos -L/Users/jay/Desktop/SMS监听/libsubstrate -L/Users/jay/Desktop/SMS监听/../MobileSubstrate_need -F/Users/jay/Desktop/SMS监听/build/Release-iphoneos -filelist /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreTelephony -o /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv6/SMSListening0#
+
+CLd /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening normal armv7
+s344400267.586322
+e344400267.623039
+r1
+xLd
+x/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening
+xnormal
+xarmv7
+old: warning: directory '/Users/jay/Desktop/SMS监听/../MobileSubstrate_need' following -L not found
+lSLF07#2@128"Link /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening344400267#344400267#0(101"ld: warning: directory '/Users/jay/Desktop/SMS监听/../MobileSubstrate_need' following -L not found1(22@87"Directory '/Users/jay/Desktop/SMS监听/../MobileSubstrate_need' following -L not found344400267#0#97#0(6@0"344400267#0#0#0#0#0"0(0#0#0"8607988032#995"    cd /Users/jay/Desktop/SMS监听    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jay/Desktop/SMS监听/build/Release-iphoneos -L/Users/jay/Desktop/SMS监听/libsubstrate -L/Users/jay/Desktop/SMS监听/../MobileSubstrate_need -F/Users/jay/Desktop/SMS监听/build/Release-iphoneos -filelist /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreTelephony -o /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/Objects-normal/armv7/SMSListening0#
+
+CProcessInfoPlistFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/Info.plist SMSListening-Info.plist
+s344403249.025524
+e344403249.067466
+r1
+xProcessInfoPlistFile
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/Info.plist
+xSMSListening-Info.plist
+lSLF07#2@31"Process SMSListening-Info.plist344403249#344403249#0(0"0(0#0#52"/Users/jay/Desktop/SMS监听/SMSListening-Info.plist8628539744#560"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SMSListening-Info.plist -genpkginfo /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/ResourceRules.plist -o /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/Info.plist0#
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/SMSListening_Prefix.pch.gch SMSListening_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344403252.400397
+e344403256.732421
+r0
+xProcessPCH
+x/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/SMSListening_Prefix.pch.gch
+xSMSListening_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SMSListening_Prefix.pch344403252#344403256#0(0"0(0#0#52"/Users/jay/Desktop/SMS监听/SMSListening_Prefix.pch8627799264#1681"    cd /Users/jay/Desktop/SMS监听    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-generated-files.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-own-target-headers.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-project-headers.hmap -F/Users/jay/Desktop/SMS监听/build/Release-iphoneos -I/Users/jay/Desktop/SMS监听/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources/armv7 -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/jay/Desktop/SMS监听/SMSListening_Prefix.pch -o /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/SMSListening_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch.gch SMSListening_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344403252.369357
+e344403256.731152
+r0
+xProcessPCH
+x/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch.gch
+xSMSListening_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SMSListening_Prefix.pch344403252#344403256#0(247"error: couldn't remove '/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch.gch' after command failed: No such file or directory1(4@247"error: couldn't remove '/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch.gch' after command failed: No such file or directory344403256#18446744073709551615#0#0(6@0"344403256#0#0#0#0#0"0(0#0#52"/Users/jay/Desktop/SMS监听/SMSListening_Prefix.pch8617239552#1681"    cd /Users/jay/Desktop/SMS监听    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-generated-files.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-own-target-headers.hmap -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening-project-headers.hmap -F/Users/jay/Desktop/SMS监听/build/Release-iphoneos -I/Users/jay/Desktop/SMS监听/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources/armv6 -I/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/jay/Desktop/SMS监听/SMSListening_Prefix.pch -o /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SMSListening_Prefix-grvaptsyzfddzaehlqsqruwgtlus/SMSListening_Prefix.pch.gch2#
+
+CProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/embedded.mobileprovision
+s344400219.385568
+e344400219.394999
+r1
+xProcessProductPackaging
+x/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" build/Release-iphoneos/SMSListening.app/embedded.mobileprovision344400219#344400219#0(0"0(0#0#93"/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/embedded.mobileprovision8604389920#420"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" -o /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening.xcent
+s344400219.411734
+e344400219.433179
+r1
+xProcessProductPackaging
+x/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening.xcent
+lSLF07#2@198"ProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening.xcent344400219#344400219#0(0"0(0#0#108"/Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening.xcent8603832832#447"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/jay/Desktop/SMS监听/build/SMSListening.build/Release-iphoneos/SMSListening.build/SMSListening.xcent0#
+
+CTouch /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app
+s344400267.702500
+e344400267.705107
+r1
+xTouch
+x/Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app
+lSLF07#2@74"Touch /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app344400267#344400267#0(0"0(0#0#0"8604582336#263"    cd /Users/jay/Desktop/SMS监听    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jay/Desktop/SMS监听/build/Release-iphoneos/SMSListening.app0#
+

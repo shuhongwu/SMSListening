@@ -1,0 +1,1219 @@
+TcarrierInfo
+v7
+r0
+t344240009.773996
+cCheck dependencies
+cCpResource build/Release-iphoneos/carrierInfo.app/ResourceRules.plist /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist carrierInfo-Info.plist
+cCopyPNGFile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png icon.png
+cCompileXIB /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib
+cProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo normal armv7
+cLd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo normal armv6
+cCreateUniversalBinary /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo normal "armv6 armv7"
+cGenerateDSYMFile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+cProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+cTouch /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+cProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+cCodeSign /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC10D700000000000000AB3
+t1287720304
+s2739
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004CC110670000000000100240
+t1287721063
+s1049152
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTCarrier.h
+c000000004CC1105600000000000006D2
+t1287721046
+s1746
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTTelephonyNetworkInfo.h
+c000000004CC110560000000000000541
+t1287721046
+s1345
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/dlfcn.h
+c000000004CC104810000000000000B1C
+t1287718017
+s2844
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/mach-o/nlist.h
+c000000004CC1092000000000000034EB
+t1287719200
+s13547
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/notify.h
+c000000004CB3E44D0000000000002CA4
+t1286857805
+s11428
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/objc/message.h
+c000000004CC1098E0000000000001B5D
+t1287719310
+s7005
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/objc/runtime.h
+c000000004CC1098E00000000000053F9
+t1287719310
+s21497
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c000000004C5A568700000000000010DD
+t1280988807
+s4317
+
+N/Users/jay/Desktop/SMS/MobileSubstrate_need/libsubstrate.dylib
+c0000000048D0E7B70000000000008EC0
+t1221650359
+s36544
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/CKSMSService.h
+c000000004ED139350000000000000B0E
+t1322334517
+s2830
+i"CKService.h"
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/CKService.h
+c000000004ED131D20000000000000877
+t1322332626
+s2167
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.h
+c000000004CC60FE400000000000001D1
+t1288048612
+s465
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m
+c000000004CC60FE40000000000000B86
+t1288048612
+s2950
+i"carrierInfoAppDelegate.h"
+i"mainViewController.h"
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.h
+c000000004CC60FE400000000000000F3
+t1288048612
+s243
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m
+c000000004ED357330000000000000C14
+t1322473267
+s3092
+i<CoreTelephony/CTCarrier.h>
+i<CoreTelephony/CTTelephonyNetworkInfo.h>
+i"mainViewController.h"
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+t1322547209
+s374
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM
+t1322547209
+s102
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist
+t1322534338
+s760
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/PkgInfo
+t1322534338
+s8
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/ResourceRules.plist
+t1322466604
+s485
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+t1322547209
+s66496
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+t1322466606
+s9986
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png
+t1322466604
+s4632
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/view.nib
+t1322534339
+s1146
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo
+t1322547209
+s23716
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo.LinkFileList
+c000000004ED445C200000000000001BB
+t1322534338
+s443
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o
+t1322466605
+s54608
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o
+t1322547208
+s12624
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o
+t1322534340
+s46448
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo
+t1322547209
+s23716
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo.LinkFileList
+c000000004ED445C200000000000001BB
+t1322534338
+s443
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o
+t1322466605
+s54616
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o
+t1322547208
+s12612
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o
+t1322534341
+s46400
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+t1322466606
+s416
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch
+c000000004CC60FE40000000000000148
+t1288048612
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/icon.png
+c000000004CC60FE40000000000001332
+t1288048612
+s4914
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/libsubstrate/Headers/substrate.h
+c000000004E68992E00000000000040C5
+t1315477806
+s16581
+i<mach-o/nlist.h>
+i<objc/runtime.h>
+i<objc/message.h>
+i<dlfcn.h>
+i<CoreFoundation/CoreFoundation.h>
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/libsubstrate/libsubstrate.dylib
+c000000004E68992E0000000000012FA0
+t1315477806
+s77728
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m
+c000000004ED44CA90000000000000BEE
+t1322536105
+s3054
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"CKSMSService.h"
+i<notify.h>
+i<stdio.h>
+i<stdarg.h>
+i<dlfcn.h>
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/substrate.h
+c0000000048E7D7B10000000000000617
+t1223153585
+s1559
+i<mach-o/nlist.h>
+i<objc/runtime.h>
+i<dlfcn.h>
+
+N/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib
+c000000004ED4406A00000000000035B2
+t1322532970
+s13746
+
+N/Users/jay/Desktop/SMS监听/CKSMSService.h
+c000000004ED139350000000000000B0E
+t1322334517
+s2830
+i"CKService.h"
+
+N/Users/jay/Desktop/SMS监听/CKService.h
+c000000004ED131D20000000000000877
+t1322332626
+s2167
+
+N/Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.h
+c000000004CC60FE400000000000001D1
+t1288048612
+s465
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.m
+c000000004CC60FE40000000000000B86
+t1288048612
+s2950
+i"carrierInfoAppDelegate.h"
+i"mainViewController.h"
+
+N/Users/jay/Desktop/SMS监听/Classes/mainViewController.h
+c000000004CC60FE400000000000000F3
+t1288048612
+s243
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS监听/Classes/mainViewController.m
+c000000004ED357330000000000000C14
+t1322473267
+s3092
+i<CoreTelephony/CTCarrier.h>
+i<CoreTelephony/CTTelephonyNetworkInfo.h>
+i"mainViewController.h"
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app
+t1322547209
+s374
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app.dSYM
+t1322547209
+s102
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/Info.plist
+t1322534338
+s760
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/PkgInfo
+t1322534338
+s8
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/ResourceRules.plist
+t1322466604
+s485
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/carrierInfo
+t1322547209
+s66496
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+t1322466606
+s9986
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/icon.png
+t1322466604
+s4632
+
+N/Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/view.nib
+t1322534339
+s1146
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo
+t1322547209
+s23716
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo.LinkFileList
+c000000004ED445C200000000000001BB
+t1322534338
+s443
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o
+t1322466605
+s54608
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o
+t1322547208
+s12624
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o
+t1322534340
+s46448
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo
+t1322547209
+s23716
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo.LinkFileList
+c000000004ED445C200000000000001BB
+t1322534338
+s443
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o
+t1322466605
+s54616
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o
+t1322547208
+s12612
+
+N/Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o
+t1322534341
+s46400
+
+N/Users/jay/Desktop/SMS监听/carrierInfo_Prefix.pch
+c000000004CC60FE40000000000000148
+t1288048612
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jay/Desktop/SMS监听/icon.png
+c000000004CC60FE40000000000001332
+t1288048612
+s4914
+
+N/Users/jay/Desktop/SMS监听/main.m
+c000000004ED44CA90000000000000BEE
+t1322536105
+s3054
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"CKSMSService.h"
+i<notify.h>
+i<stdio.h>
+i<stdarg.h>
+i<dlfcn.h>
+
+N/Users/jay/Desktop/SMS监听/view.xib
+c000000004ED4406A00000000000035B2
+t1322532970
+s13746
+
+N/Users/jay/Library/MobileDevice/Provisioning Profiles/1932565D-F147-4FF2-BCC9-9B61DBC06662.mobileprovision
+c000000004ED09FF000000000000026C2
+t1322295280
+s9922
+
+N/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision
+c000000004ED0A7A10000000000002702
+t1322297249
+s9986
+
+N/Users/jay/Library/MobileDevice/Provisioning Profiles/EC2753E3-60CB-400E-B2F9-C727C32AC932.mobileprovision
+c000000004ED09CC900000000000026C4
+t1322294473
+s9924
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/CKSMSService.h
+c000000004ED139350000000000000B0E
+t1322334517
+s2830
+i"CKService.h"
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/CKService.h
+c000000004ED131D20000000000000877
+t1322332626
+s2167
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.h
+c000000004CC60FE400000000000001D1
+t1288048612
+s465
+i<UIKit/UIKit.h>
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m
+c000000004CC60FE40000000000000B86
+t1288048612
+s2950
+i"carrierInfoAppDelegate.h"
+i"mainViewController.h"
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.h
+c000000004CC60FE400000000000000F3
+t1288048612
+s243
+i<UIKit/UIKit.h>
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m
+c000000004ED357330000000000000C14
+t1322473267
+s3092
+i<CoreTelephony/CTCarrier.h>
+i<CoreTelephony/CTTelephonyNetworkInfo.h>
+i"mainViewController.h"
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+t1322547209
+s374
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM
+t1322547209
+s102
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist
+t1322534338
+s760
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/PkgInfo
+t1322534338
+s8
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/ResourceRules.plist
+t1322466604
+s485
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+t1322547209
+s52388
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+t1322466606
+s9986
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png
+t1322466604
+s4632
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/view.nib
+t1322534339
+s1146
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo
+t1322547209
+s23716
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo.LinkFileList
+c000000004ED445C200000000000001BB
+t1322534338
+s443
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o
+t1322466605
+s54608
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o
+t1322547208
+s12624
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o
+t1322534340
+s46448
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo
+t1322547209
+s23716
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo.LinkFileList
+c000000004ED445C200000000000001BB
+t1322534338
+s443
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o
+t1322466605
+s54616
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o
+t1322547208
+s12612
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o
+t1322534341
+s46400
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+t1322534341
+s416
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch
+c000000004CC60FE40000000000000148
+t1288048612
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/icon.png
+c000000004CC60FE40000000000001332
+t1288048612
+s4914
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m
+c000000004ED44CA90000000000000BEE
+t1322536105
+s3054
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"CKSMSService.h"
+i<notify.h>
+i<stdio.h>
+i<stdarg.h>
+i<dlfcn.h>
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/substrate.h
+c0000000048E7D7B10000000000000617
+t1223153585
+s1559
+i<mach-o/nlist.h>
+i<objc/runtime.h>
+i<dlfcn.h>
+
+N/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib
+c000000004ED4406A00000000000035B2
+t1322532970
+s13746
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/carrierInfo_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-bfimizoqtcrjaufthyemlaqxnjhm/carrierInfo_Prefix.pch.gch
+t1322466605
+s10249944
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch.gch
+t1322458869
+s10249944
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch.gch
+t1322458868
+s9787096
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-grvaptsyzfddzaehlqsqruwgtlus/carrierInfo_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-hgnyjzipoypejwbhifisvtxewetb/carrierInfo_Prefix.pch.gch
+t1322466605
+s9787096
+
+NcarrierInfo-Info.plist
+c000000004ED34A77000000000000033B
+t1322470007
+s827
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344240008#344240008#0(0"0(0#1#0"8594537696#0"0#
+
+CCodeSign /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+s344159406.150822
+e344159406.501092
+r1
+xCodeSign
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+lSLF07#2@47"CodeSign build/Release-iphoneos/carrierInfo.app344159406#344159406#0(0"0(0#0#88"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app8601131840#739"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: xdjiang xdjiang (HPZXESULG6)" --resource-rules=/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/ResourceRules.plist --entitlements /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app0#
+
+CCodeSign /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app
+r0
+
+CCodeSign /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+s344240009.205334
+e344240009.773950
+r1
+xCodeSign
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+lSLF07#2@47"CodeSign build/Release-iphoneos/carrierInfo.app344240009#344240009#0(0"0(0#0#88"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app8615980640#739"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: xdjiang xdjiang (HPZXESULG6)" --resource-rules=/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/ResourceRules.plist --entitlements /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344159405.515999
+e344159405.686723
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m344159405#344159405#0(0"0(0#0#82"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m8612837568#2035"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-hgnyjzipoypejwbhifisvtxewetb/carrierInfo_Prefix.pch -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o /Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344151669.276518
+e344151669.545975
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m344151669#344151669#0(0"0(0#0#82"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m8613955296#2035"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfoAppDelegate.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344159405.514343
+e344159405.650508
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: (Messages without a matching method signature
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: will be assumed to return 'id' and accept
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: '...' as arguments.)
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:50: warning: no '-incomingMessageWithId:' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:51: warning: no '-messageType' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:57: warning: no '-canonicalFormat' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: initialization makes pointer from integer without a cast
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: At top level:
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:28: warning: 'originalMethod' defined but not used
+lSLF07#2@64"Compile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344159405#344159405#0(1597"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: (Messages without a matching method signature/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: will be assumed to return 'id' and accept/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: '...' as arguments.)/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:50: warning: no '-incomingMessageWithId:' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:51: warning: no '-messageType' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:57: warning: no '-canonicalFormat' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: initialization makes pointer from integer without a cast/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: At top level:/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:28: warning: 'originalMethod' defined but not used11(22@38"No '+sharedMessageCenter' method found344159405#92#109#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#49#0#49#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)344159405#201#116#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#49#0#49#0#0"0(22@41"No '-incomingMessageWithId:' method found344159405#520#112#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#50#0#50#0#19"no '*' method found0(22@30"No '-messageType' method found344159405#632#101#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#51#0#51#0#19"no '*' method found0(22@34"No '-canonicalFormat' method found344159405#733#105#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#57#0#57#0#19"no '*' method found0(22@38"No '+sharedMessageCenter' method found344159405#838#109#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#65#0#65#0#19"no '*' method found0(22@59"No '-sendSMSWithText:serviceCenter:toAddress:' method found344159405#947#130#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#65#0#65#0#19"no '*' method found0(22@62"Implicit declaration of function 'CTTelephonyCenterGetDefault'344159405#1155#134#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#113#0#113#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast344159405#1289#128#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#113#0#113#0#0"0(23@13"At top level:344159405#1417#72#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#0#0#0#0#0"0(22@37"'originalMethod' defined but not used344159405#1489#108#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#28#0#28#0#24"'*' defined but not used0(0#0#56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m8616126080#1991"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-hgnyjzipoypejwbhifisvtxewetb/carrierInfo_Prefix.pch -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o /Users/jay/Desktop/SMS监听/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344240008.615072
+e344240008.971599
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: no '+sharedMessageCenter' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: (Messages without a matching method signature
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: will be assumed to return 'id' and accept
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: '...' as arguments.)
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:48: warning: no '-incomingMessageWithId:' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '-messageType' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:55: warning: no '-canonicalFormat' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '+sharedMessageCenter' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: initialization makes pointer from integer without a cast
+lSLF07#2@64"Compile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344240008#344240008#0(1415"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: no '+sharedMessageCenter' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: (Messages without a matching method signature/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: will be assumed to return 'id' and accept/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: '...' as arguments.)/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:48: warning: no '-incomingMessageWithId:' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '-messageType' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:55: warning: no '-canonicalFormat' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '+sharedMessageCenter' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: initialization makes pointer from integer without a cast9(22@38"No '+sharedMessageCenter' method found344240008#92#109#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#47#0#47#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)344240008#201#116#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#47#0#47#0#0"0(22@41"No '-incomingMessageWithId:' method found344240008#520#112#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#48#0#48#0#19"no '*' method found0(22@30"No '-messageType' method found344240008#632#101#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#49#0#49#0#19"no '*' method found0(22@34"No '-canonicalFormat' method found344240008#733#105#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#55#0#55#0#19"no '*' method found0(22@38"No '+sharedMessageCenter' method found344240008#838#109#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#63#0#63#0#19"no '*' method found0(22@59"No '-sendSMSWithText:serviceCenter:toAddress:' method found344240008#947#130#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#63#0#63#0#19"no '*' method found0(22@62"Implicit declaration of function 'CTTelephonyCenterGetDefault'344240008#1155#133#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#81#0#81#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast344240008#1288#127#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#81#0#81#0#0"0(0#0#56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m8616477536#1991"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344159405.650786
+e344159405.855159
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m344159405#344159405#0(0"0(0#0#78"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m8616598560#2027"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-hgnyjzipoypejwbhifisvtxewetb/carrierInfo_Prefix.pch -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o /Users/jay/Desktop/SMS监听/Classes/mainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344227139.971403
+e344227140.371158
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m344227139#344227140#0(0"0(0#0#78"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m8616207008#2027"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/mainViewController.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344159405.803977
+e344159405.930711
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m344159405#344159405#0(0"0(0#0#82"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m8607291808#2035"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-bfimizoqtcrjaufthyemlaqxnjhm/carrierInfo_Prefix.pch -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o /Users/jay/Desktop/SMS监听/Classes/carrierInfoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344151669.609915
+e344151669.772954
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m344151669#344151669#0(0"0(0#0#82"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m8614905920#2035"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/carrierInfoAppDelegate.m -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfoAppDelegate.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344159405.686833
+e344159405.803866
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: (Messages without a matching method signature
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: will be assumed to return 'id' and accept
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: '...' as arguments.)
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:50: warning: no '-incomingMessageWithId:' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:51: warning: no '-messageType' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:57: warning: no '-canonicalFormat' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '+sharedMessageCenter' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: initialization makes pointer from integer without a cast
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: At top level:
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:28: warning: 'originalMethod' defined but not used
+lSLF07#2@64"Compile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344159405#344159405#0(1597"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: (Messages without a matching method signature/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: will be assumed to return 'id' and accept/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: '...' as arguments.)/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:50: warning: no '-incomingMessageWithId:' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:51: warning: no '-messageType' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:57: warning: no '-canonicalFormat' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '+sharedMessageCenter' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:65: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:113: warning: initialization makes pointer from integer without a cast/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: At top level:/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:28: warning: 'originalMethod' defined but not used11(22@38"No '+sharedMessageCenter' method found344159405#92#109#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#49#0#49#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)344159405#201#116#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#49#0#49#0#0"0(22@41"No '-incomingMessageWithId:' method found344159405#520#112#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#50#0#50#0#19"no '*' method found0(22@30"No '-messageType' method found344159405#632#101#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#51#0#51#0#19"no '*' method found0(22@34"No '-canonicalFormat' method found344159405#733#105#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#57#0#57#0#19"no '*' method found0(22@38"No '+sharedMessageCenter' method found344159405#838#109#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#65#0#65#0#19"no '*' method found0(22@59"No '-sendSMSWithText:serviceCenter:toAddress:' method found344159405#947#130#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#65#0#65#0#19"no '*' method found0(22@62"Implicit declaration of function 'CTTelephonyCenterGetDefault'344159405#1155#134#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#113#0#113#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast344159405#1289#128#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#113#0#113#0#0"0(23@13"At top level:344159405#1417#72#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#0#0#0#0#0"0(22@37"'originalMethod' defined but not used344159405#1489#108#0(6@56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344157721#28#0#28#0#24"'*' defined but not used0(0#0#56"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m8611734624#1991"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-bfimizoqtcrjaufthyemlaqxnjhm/carrierInfo_Prefix.pch -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o /Users/jay/Desktop/SMS监听/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344240008.737468
+e344240008.926345
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: no '+sharedMessageCenter' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: (Messages without a matching method signature
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: will be assumed to return 'id' and accept
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: '...' as arguments.)
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:48: warning: no '-incomingMessageWithId:' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '-messageType' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:55: warning: no '-canonicalFormat' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '+sharedMessageCenter' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'
+o/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: initialization makes pointer from integer without a cast
+lSLF07#2@64"Compile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344240008#344240008#0(1415"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'callback_ctmessage':/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: no '+sharedMessageCenter' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: (Messages without a matching method signature/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: will be assumed to return 'id' and accept/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:47: warning: '...' as arguments.)/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:48: warning: no '-incomingMessageWithId:' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:49: warning: no '-messageType' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:55: warning: no '-canonicalFormat' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '+sharedMessageCenter' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:63: warning: no '-sendSMSWithText:serviceCenter:toAddress:' method found/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m: In function 'main':/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: implicit declaration of function 'CTTelephonyCenterGetDefault'/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m:81: warning: initialization makes pointer from integer without a cast9(22@38"No '+sharedMessageCenter' method found344240008#92#109#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#47#0#47#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)344240008#201#116#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#47#0#47#0#0"0(22@41"No '-incomingMessageWithId:' method found344240008#520#112#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#48#0#48#0#19"no '*' method found0(22@30"No '-messageType' method found344240008#632#101#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#49#0#49#0#19"no '*' method found0(22@34"No '-canonicalFormat' method found344240008#733#105#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#55#0#55#0#19"no '*' method found0(22@38"No '+sharedMessageCenter' method found344240008#838#109#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#63#0#63#0#19"no '*' method found0(22@59"No '-sendSMSWithText:serviceCenter:toAddress:' method found344240008#947#130#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#63#0#63#0#19"no '*' method found0(22@62"Implicit declaration of function 'CTTelephonyCenterGetDefault'344240008#1155#133#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#81#0#81#0#36"implicit declaration of function '*'0(22@56"Initialization makes pointer from integer without a cast344240008#1288#127#0(6@56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m344228905#81#0#81#0#0"0(0#0#56"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m8616521472#1991"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/main.m -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344159405.930841
+e344159406.064298
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m344159405#344159406#0(0"0(0#0#78"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m8599036672#2027"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-bfimizoqtcrjaufthyemlaqxnjhm/carrierInfo_Prefix.pch -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o0#
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o /Users/jay/Desktop/SMS监听/Classes/mainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344227140.371442
+e344227141.440556
+r1
+xCompileC
+xbuild/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m344227140#344227141#0(0"0(0#0#78"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m8616082368#2027"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/Classes/mainViewController.m -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/mainViewController.o0#
+
+CCompileXIB /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib
+r0
+
+CCompileXIB /Users/jay/Desktop/SMS监听/view.xib
+r0
+
+CCompileXIB /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib
+s344227138.780414
+e344227139.859926
+r1
+xCompileXIB
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@19"CompileXIB view.xib344227138#344227139#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib8616840960#593"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/view.nib /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/view.xib --sdk /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png icon.png
+s344159404.537331
+e344159404.571072
+r1
+xCopyPNGFile
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png
+xicon.png
+lSLF07#2@68"CopyPNGFile build/Release-iphoneos/carrierInfo.app/icon.png icon.png344159404#344159404#0(0"0(0#0#58"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/icon.png8610418400#619"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv COPY_COMMAND /Developer/xcode/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/icon.png /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png0#
+
+CCopyPNGFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/icon.png icon.png
+r0
+
+CCopyPNGFile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png icon.png
+s344151667.848152
+e344151668.026303
+r1
+xCopyPNGFile
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png
+xicon.png
+lSLF07#2@68"CopyPNGFile build/Release-iphoneos/carrierInfo.app/icon.png icon.png344151667#344151668#0(0"0(0#0#58"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/icon.png12666807751213152#619"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv COPY_COMMAND /Developer/xcode/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/icon.png /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/icon.png0#
+
+CCpResource build/Release-iphoneos/carrierInfo.app/ResourceRules.plist /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s344159404.527700
+e344159404.536113
+r1
+xCpResource
+xbuild/Release-iphoneos/carrierInfo.app/ResourceRules.plist
+x/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@100"Copy /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist344159404#344159404#0(0"0(0#0#95"/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8611898560#567"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app0#
+
+CCreateUniversalBinary /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo normal "armv6 armv7"
+s344159406.095639
+e344159406.099101
+r1
+xCreateUniversalBinary
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Release-iphoneos/carrierInfo.app/carrierInfo normal "armv6 armv7"344159406#344159406#0(0"0(0#0#61"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/armv6 armv78612411584#612"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo -output /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo0#
+
+CCreateUniversalBinary /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/carrierInfo normal "armv6 armv7"
+r0
+
+CCreateUniversalBinary /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo normal "armv6 armv7"
+s344240009.033854
+e344240009.061215
+r1
+xCreateUniversalBinary
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Release-iphoneos/carrierInfo.app/carrierInfo normal "armv6 armv7"344240009#344240009#0(0"0(0#0#61"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/armv6 armv78616336096#612"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo -output /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo0#
+
+CGenerateDSYMFile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+s344159406.099188
+e344159406.122867
+r1
+xGenerateDSYMFile
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+lSLF07#2@111"GenerateDSYMFile build/Release-iphoneos/carrierInfo.app.dSYM build/Release-iphoneos/carrierInfo.app/carrierInfo344159406#344159406#0(0"0(0#0#100"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo8611581600#429"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/usr/bin/dsymutil /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM0#
+
+CGenerateDSYMFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app.dSYM /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/carrierInfo
+r0
+
+CGenerateDSYMFile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+s344240009.061315
+e344240009.202174
+r1
+xGenerateDSYMFile
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo
+lSLF07#2@111"GenerateDSYMFile build/Release-iphoneos/carrierInfo.app.dSYM build/Release-iphoneos/carrierInfo.app/carrierInfo344240009#344240009#0(0"0(0#0#100"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo8616115744#429"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/usr/bin/dsymutil /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/carrierInfo -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app.dSYM0#
+
+CLd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo normal armv6
+s344159405.855266
+e344159405.933272
+r1
+xLd
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo
+xnormal
+xarmv6
+lSLF07#2@146"Link /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo344159405#344159405#0(0"0(0#0#0"8603318976#1136"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -L/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/libsubstrate -L/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/../MobileSubstrate_need -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -filelist /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreTelephony -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo0#
+
+CLd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo normal armv7
+s344159406.064488
+e344159406.095528
+r1
+xLd
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo
+xnormal
+xarmv7
+lSLF07#2@146"Link /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo344159406#344159406#0(0"0(0#0#0"8615237920#1136"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -L/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/libsubstrate -L/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/../MobileSubstrate_need -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -filelist /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreTelephony -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo0#
+
+CLd /Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo normal armv6
+r0
+
+CLd /Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo normal armv7
+r0
+
+CLd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo normal armv6
+s344240008.971692
+e344240009.033431
+r1
+xLd
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo
+xnormal
+xarmv6
+lSLF07#2@146"Link /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo344240008#344240009#0(0"0(0#0#0"8606165984#1136"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -L/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/libsubstrate -L/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/../MobileSubstrate_need -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -filelist /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreTelephony -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv6/carrierInfo0#
+
+CLd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo normal armv7
+s344240008.926812
+e344240009.004373
+r1
+xLd
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo
+xnormal
+xarmv7
+lSLF07#2@146"Link /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo344240008#344240009#0(0"0(0#0#0"8612564896#1136"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -L/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/libsubstrate -L/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/../MobileSubstrate_need -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -filelist /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreTelephony -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/Objects-normal/armv7/carrierInfo0#
+
+CProcessInfoPlistFile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist carrierInfo-Info.plist
+s344159404.528633
+e344159404.537248
+r1
+xProcessInfoPlistFile
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist
+xcarrierInfo-Info.plist
+lSLF07#2@30"Process carrierInfo-Info.plist344159404#344159404#0(0"0(0#0#72"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo-Info.plist8611529248#640"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility carrierInfo-Info.plist -genpkginfo /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/ResourceRules.plist -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/Info.plist carrierInfo-Info.plist
+r0
+
+CProcessInfoPlistFile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist carrierInfo-Info.plist
+s344227138.676674
+e344227138.780237
+r1
+xProcessInfoPlistFile
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist
+xcarrierInfo-Info.plist
+lSLF07#2@30"Process carrierInfo-Info.plist344227138#344227138#0(0"0(0#0#72"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo-Info.plist31525614006435952#640"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility carrierInfo-Info.plist -genpkginfo /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/ResourceRules.plist -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/Info.plist0#
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-alwvdxfvvjozaxbripdtsguvpgbs/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-bfimizoqtcrjaufthyemlaqxnjhm/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344159404.572251
+e344159405.514240
+r1
+xProcessPCH
+x/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-bfimizoqtcrjaufthyemlaqxnjhm/carrierInfo_Prefix.pch.gch
+xcarrierInfo_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile carrierInfo_Prefix.pch344159404#344159405#0(0"0(0#0#72"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch8607686432#1872"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch -o /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-bfimizoqtcrjaufthyemlaqxnjhm/carrierInfo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s344151668.027711
+e344151669.274415
+r1
+xProcessPCH
+x/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch.gch
+xcarrierInfo_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile carrierInfo_Prefix.pch344151668#344151669#0(0"0(0#0#72"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch8613961920#1872"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv7 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch -o /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-fdualdebnyfixjdnsilmqhsoopge/carrierInfo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344151668.026480
+e344151669.130749
+r1
+xProcessPCH
+x/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch.gch
+xcarrierInfo_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile carrierInfo_Prefix.pch344151668#344151669#0(0"0(0#0#72"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch8614300320#1872"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch -o /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-gcifxozuocsrkkbanogkilhsapob/carrierInfo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-grvaptsyzfddzaehlqsqruwgtlus/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-hgnyjzipoypejwbhifisvtxewetb/carrierInfo_Prefix.pch.gch carrierInfo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s344159404.571234
+e344159405.381374
+r1
+xProcessPCH
+x/var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-hgnyjzipoypejwbhifisvtxewetb/carrierInfo_Prefix.pch.gch
+xcarrierInfo_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile carrierInfo_Prefix.pch344159404#344159405#0(0"0(0#0#72"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch8609655392#1872"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-generated-files.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-own-target-headers.hmap -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-all-target-headers.hmap -iquote /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo-project-headers.hmap -F/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/include -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources/armv6 -I/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/carrierInfo_Prefix.pch -o /var/folders/5b/5bQQCQeyGDGrBIooHEhhiU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/carrierInfo_Prefix-hgnyjzipoypejwbhifisvtxewetb/carrierInfo_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1932565D-F147-4FF2-BCC9-9B61DBC06662.mobileprovision" /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+s343989105.987591
+e343989105.988845
+r1
+xProcessProductPackaging
+x/Users/jay/Library/MobileDevice/Provisioning Profiles/1932565D-F147-4FF2-BCC9-9B61DBC06662.mobileprovision
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1932565D-F147-4FF2-BCC9-9B61DBC06662.mobileprovision" build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision343989105#343989105#0(0"0(0#0#113"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision8615673856#461"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jay/Library/MobileDevice/Provisioning Profiles/1932565D-F147-4FF2-BCC9-9B61DBC06662.mobileprovision" -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+s344159406.122982
+e344159406.124182
+r1
+xProcessProductPackaging
+x/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision344159406#344159406#0(0"0(0#0#113"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision8608569280#461"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+s344151669.820883
+e344151669.847720
+r1
+xProcessProductPackaging
+x/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision344151669#344151669#0(0"0(0#0#113"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision8613000992#461"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jay/Library/MobileDevice/Provisioning Profiles/1CCE7042-AC1F-492E-BCC0-3C9B6CCF3F1B.mobileprovision" -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/EC2753E3-60CB-400E-B2F9-C727C32AC932.mobileprovision" /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+s343987966.284798
+e343987966.305219
+r1
+xProcessProductPackaging
+x/Users/jay/Library/MobileDevice/Provisioning Profiles/EC2753E3-60CB-400E-B2F9-C727C32AC932.mobileprovision
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/jay/Library/MobileDevice/Provisioning Profiles/EC2753E3-60CB-400E-B2F9-C727C32AC932.mobileprovision" build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision343987966#343987966#0(0"0(0#0#113"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision8610710208#461"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jay/Library/MobileDevice/Provisioning Profiles/EC2753E3-60CB-400E-B2F9-C727C32AC932.mobileprovision" -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+s344159406.127491
+e344159406.150709
+r1
+xProcessProductPackaging
+x/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+lSLF07#2@195"ProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent344159406#344159406#0(0"0(0#0#126"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent8603970624#486"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent0#
+
+CProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jay/Desktop/SMS监听/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+r0
+
+CProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+s344227141.440787
+e344227141.466794
+r1
+xProcessProductPackaging
+x/Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent
+lSLF07#2@195"ProcessProductPackaging /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent344227141#344227141#0(0"0(0#0#126"/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent8613817088#486"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/xcode/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/carrierInfo.build/Release-iphoneos/carrierInfo.build/carrierInfo.xcent0#
+
+CTouch /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+s344159406.124241
+e344159406.127390
+r1
+xTouch
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+lSLF07#2@94"Touch /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app344159406#344159406#0(0"0(0#0#0"8604478080#304"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app0#
+
+CTouch /Users/jay/Desktop/SMS监听/build/Release-iphoneos/carrierInfo.app
+r0
+
+CTouch /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+s344240009.202369
+e344240009.205154
+r1
+xTouch
+x/users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+lSLF07#2@94"Touch /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app344240009#344240009#0(0"0(0#0#0"8616535776#304"    cd /users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app0#
+
+CValidate /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+s343988813.995073
+e343988814.108238
+r1
+xValidate
+x/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app
+o2011-11-26 16:26:54.014 Validation[646:607] *** Warning: Defaulting to the standard codesign tool
+owarning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app: CSSMERR_TP_NOT_TRUSTED
+o - (null)
+o
+owarning: Unable to extract codesigning entitlements from your application.  Please make sure carrierInfo.app is a valid Mach executable that's properly codesigned. (-19050)
+o/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app: CSSMERR_TP_NOT_TRUSTED
+o - (null)
+o
+lSLF07#2@47"Validate build/Release-iphoneos/carrierInfo.app343988813#343988814#0(666"2011-11-26 16:26:54.014 Validation[646:607] *** Warning: Defaulting to the standard codesign toolwarning: Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app: CSSMERR_TP_NOT_TRUSTED - (null)warning: Unable to extract codesigning entitlements from your application.  Please make sure carrierInfo.app is a valid Mach executable that's properly codesigned. (-19050)/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app: CSSMERR_TP_NOT_TRUSTED - (null)2(22@138" Application failed codesign verification.  The signature was invalid, or it was not signed with an Apple submission certificate. (-19011)343988814#18446744073709551615#0#0(6@0"343988814#0#0#0#0#0"0(22@164" Unable to extract codesigning entitlements from your application.  Please make sure carrierInfo.app is a valid Mach executable that's properly codesigned. (-19050)343988814#18446744073709551615#0#0(6@0"343988814#0#0#0#0#0"0(0#0#88"/Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app8614569856#419"    cd /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234    setenv PATH "/Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/xcode/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/xcode/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/jay/Desktop/SMS/derand-carrierInfo-1f32234/build/Release-iphoneos/carrierInfo.app0#
+
