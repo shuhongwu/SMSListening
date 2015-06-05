@@ -1,4 +1,4 @@
 SMSListening
 ============
 
-短信监听程序，有短信来到，发送一个短信给设定的电话号码
+send a message to a number you wanted when the iPhone gets a new message arrived
